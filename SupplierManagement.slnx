@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="SupplierManagement.ConsoleApp/SupplierManagement.ConsoleApp.csproj" />
+  <Project Path="SupplierManagement.Interfaces/SupplierManagement.Interfaces.csproj" />
+  <Project Path="SupplierManagement.Models/SupplierManagement.Models.csproj" />
+  <Project Path="SupplierManagement.Operations/SupplierManagement.Operations.csproj" />
+  <Project Path="SupplierManagement.Services/SupplierManagement.Services.csproj" />
+</Solution>
